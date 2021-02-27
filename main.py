@@ -3,7 +3,7 @@ import random
 import math
 from pygame import mixer
 
-# initial the game
+# initialize the game
 pygame.init()
 
 # create the game
